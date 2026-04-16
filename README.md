@@ -4,8 +4,6 @@
 
 [Cliquez ici pour télécharger Stock Master Pro](https://github.com/Professeur226/stock-master-pro-installer/releases/download/v1.0.0/StockMasterPro_Setup.exe)
 
-*(Remplace TON_USERNAME par ton nom d'utilisateur GitHub)*
-
 ---
 
 ## 🚀 Installation
